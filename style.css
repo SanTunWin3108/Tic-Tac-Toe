@@ -23,11 +23,11 @@ html {
 }
 
 .container {
-    width: 80vmin;
-    height: 80vmin;
+    width: 70vmin;
+    height: 70vmin;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    gap: 2vmin;
 }
 
 .button-option {
